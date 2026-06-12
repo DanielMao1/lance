@@ -19,6 +19,7 @@ use crate::vector::quantizer::QuantizerBuildParams;
 
 pub mod builder;
 pub mod ex_dot;
+pub mod prune;
 pub mod rotation;
 pub mod storage;
 pub mod transform;
